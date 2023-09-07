@@ -1,4 +1,4 @@
-<p>Hey! My name is Vladislav. 💻 I'm Frontend Developer from Novosibirsk, Russia</p>
+## <h3>Hey! My name is Vladislav. 💻 I'm Frontend Developer from Novosibirsk, Russia</h3>
 
 <h3>Things I code with</h3>
 <p>
@@ -31,7 +31,7 @@
 
 <h3>About Me</h3>
 <ul>
-  <li>Languages: <img width="13" height="13" src="https://img.icons8.com/color/48/russian-federation-circular.png" alt="russian-federation-circular"/> Native Russian speaker <img width="13" height="13" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/></li> English - B2 
+  <li>Languages: <img width="13" height="13" src="https://img.icons8.com/color/48/russian-federation-circular.png" alt="russian-federation-circular"/> Native Russian speaker <img width="13" height="13" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/> English - B2 </li> 
   <li>Bachelor's Degree: Novosibirsk State Technical University (2018 - 2022) - Automation and Computer Science 🎓</li>
 </ul>
 
@@ -79,9 +79,10 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://github.com/LaberSor" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/labersor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://t.me/labersor" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://career.habr.com/labersor" target="_blank"><img alt="Habr" src="https://img.shields.io/badge/habr-%2365A3BE.svg?&style=for-the-badge&logo=habr&logoColor=white" /></a>
   <a href="https://www.codewars.com/users/LaberSor" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/codewars-%23B1361E.svg?&style=for-the-badge&logo=codewars&logoColor=white" /></a>
+  <a href="mailto:vlad.shumkin.rc@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
