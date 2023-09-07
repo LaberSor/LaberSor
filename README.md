@@ -1,6 +1,7 @@
 <h3>Hey! My name is Vladislav. 💻 I'm Frontend Developer from Novosibirsk, Russia</h3>
 
 ## <h3>Things I code with</h3>
+
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -33,6 +34,7 @@
 <ul>
   <li>Languages: <img width="13" height="13" src="https://img.icons8.com/color/48/russian-federation-circular.png" alt="russian-federation-circular"/> Native Russian speaker <img width="13" height="13" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/> English - B2 </li> 
   <li>Bachelor's Degree: Novosibirsk State Technical University (2018 - 2022) - Automation and Computer Science 🎓</li>
+  <li>Full CV: </li> <!-- New -->
 </ul>
 
 <h3>Work experience</h3>
@@ -48,7 +50,7 @@
   <tbody>
   <tr>
       <td>
-        React Middle Developer 
+        React Developer 
       </td>
       <td>
         Sibirtech
@@ -62,7 +64,7 @@
     </tr>
     <tr>
       <td>
-        Junior Angular Developer 
+        Junior Developer 
       </td>
       <td>
         Sibirtech
@@ -76,6 +78,14 @@
     </tr>
   </tbody>
 </table>
+
+<h3>My Responsibilities</h3>
+<ul>
+  <li>Creating new components, features, capabilities</li> 
+  <li>Refactoring and optimizing legacy. Bug fixing</li>
+  <li>Writing and supporting tests</li>
+  <li>Code reviewing</li>
+</ul>
 
 <h3>Where to find me</h3>
 <p>
