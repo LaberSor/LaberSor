@@ -1,4 +1,4 @@
-<h1> Hey! Nice to see you. I'm Frontend developer from Novosibirsk, Russia</h1>
+<p>Hey! My name is Vladislav. 💻 I'm Frontend Developer from Novosibirsk, Russia</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -6,7 +6,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-BA2BD2?style=flat-square&logo=ngreactive&logoColor=white" /> 
@@ -26,16 +25,17 @@
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostrgeSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> 
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-0E83CD?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 </p>
 
 <h3>About Me</h3>
 <ul>
-  <li>Languages: Native Russian speaker <img width="13" height="13" src="https://img.icons8.com/color/48/russian-federation-circular.png" alt="russian-federation-circular"/> English - B2 <img width="13" height="13" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/></li>
-  <li>Bachelor's Degree: Novosibirsk State Technical University (2018 - 2022) - Automation and Computer Science</li>
+  <li>Languages: <img width="13" height="13" src="https://img.icons8.com/color/48/russian-federation-circular.png" alt="russian-federation-circular"/> Native Russian speaker <img width="13" height="13" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/></li> English - B2 
+  <li>Bachelor's Degree: Novosibirsk State Technical University (2018 - 2022) - Automation and Computer Science 🎓</li>
 </ul>
 
-<ph3>Work experience</ph3>
-
+<h3>Work experience</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -46,6 +46,20 @@
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>
+        React Middle Developer 
+      </td>
+      <td>
+        Sibirtech
+      </td>
+      <td>
+        Fintech, Mortgage, Banking
+      </td>
+      <td>
+        2021.07 - Now
+      </td>
+    </tr>
     <tr>
       <td>
         Junior Angular Developer 
@@ -60,20 +74,6 @@
         2020.07 - 2021.07
       </td>
     </tr>
-    <tr>
-      <td>
-        React Middle Developer 
-      </td>
-      <td>
-        Sibirtech
-      </td>
-      <td>
-        Fintech, Mortgage, Banking
-      </td>
-      <td>
-        2021.07 - Now
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -81,6 +81,7 @@
 <p>
   <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/labersor" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://t.me/labersor" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <!-- TG -->
-  <a href="https://career.habr.com/labersor" target="_blank"><img alt="Habr" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <!-- HABR -->
+  <a href="https://t.me/labersor" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://career.habr.com/labersor" target="_blank"><img alt="Habr" src="https://img.shields.io/badge/habr-%2365A3BE.svg?&style=for-the-badge&logo=habr&logoColor=white" /></a>
+  <a href="https://www.codewars.com/users/LaberSor" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/codewars-%23B1361E.svg?&style=for-the-badge&logo=codewars&logoColor=white" /></a>
 </p>
