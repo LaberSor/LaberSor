@@ -9,7 +9,7 @@
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-BA2BD2?style=flat-square&logo=ngreactive&logoColor=white" /> 
+  <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" /> 
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -34,7 +34,7 @@
 <ul>
   <li>Languages: <img width="13" height="13" src="https://img.icons8.com/color/48/russian-federation-circular.png" alt="russian-federation-circular"/> Native Russian speaker <img width="13" height="13" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/> English - B2 </li> 
   <li>Bachelor's Degree: Novosibirsk State Technical University (2018 - 2022) - Automation and Computer Science 🎓</li>
-  <li>Full CV: </li> <!-- New -->
+  <li>Full CV: <a  href="https://drive.google.com/file/d/1a2TFwFkY6vtY_q7DCm9fZil1Jb-W_PN_/view?usp=sharing" target="_blank" name="EnglishCV">English</a> /  <a  href="https://drive.google.com/file/d/1nSrFykvjRtmSa1j9RJEQ1mVIUqH9T87p/view?usp=sharing" target="_blank" name="RussianCV">Russian</a></li> <!-- New -->
 </ul>
 
 <h3>Work experience</h3>
@@ -64,7 +64,7 @@
     </tr>
     <tr>
       <td>
-        Junior Developer 
+        Angular Developer 
       </td>
       <td>
         Sibirtech
