@@ -30,7 +30,7 @@
 <ul>
   <li>Languages: <img width="13" height="13" src="https://img.icons8.com/color/48/russian-federation-circular.png" alt="russian-federation-circular"/> Native Russian speaker <img width="13" height="13" src="https://img.icons8.com/color/48/great-britain-circular.png" alt="great-britain-circular"/> English - B2 </li> 
   <li>Bachelor's Degree: Novosibirsk State Technical University (2018 - 2022) - Automation and Computer Science 🎓</li>
-  <li>Full CV: <a href="https://drive.google.com/file/d/1g8rG-q-85U3AeA49kyeyiZIcxaQXAhHm/view?usp=sharing" target="_blank" name="EnglishCV">English</a> /  <a  href="https://drive.google.com/file/d/1nSrFykvjRtmSa1j9RJEQ1mVIUqH9T87p/view?usp=sharing" target="_blank" name="RussianCV">Russian</a></li> <!-- New -->
+  <li>Full CV: <a href="https://drive.google.com/file/d/1g8rG-q-85U3AeA49kyeyiZIcxaQXAhHm/view?usp=sharing" target="_blank" name="EnglishCV">English</a> /  <a  href="https://drive.google.com/file/d/1UZrwRypLrg0aCvYMcsUvVBrpDzFWNB78/view?usp=sharing" target="_blank" name="RussianCV">Russian</a></li> <!-- New -->
 </ul>
 
 <h3>Work experience</h3>
